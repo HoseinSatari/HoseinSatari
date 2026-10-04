@@ -9,3 +9,7 @@ Senior Backend Engineer & Technical Lead with 7+ years building and scaling Lara
 Most of my recent work lives on private/proprietary codebases (SaaS platforms, enterprise integrations), so this profile doesn't show the full picture of what I build day to day. For more on my background, see my [LinkedIn](https://linkedin.com/in/hosseinsattari).
 
 📫 hoseinsatari19@gmail.com
+
+🌐 Website: [hosseinsattari.ir](https://hosseinsattari.ir)
+
+Open to new opportunities in backend engineering and technical leadership.
